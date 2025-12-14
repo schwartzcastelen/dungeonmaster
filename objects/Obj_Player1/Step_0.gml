@@ -8,6 +8,8 @@ down	= keyboard_check(ord("S")) or gamepad_axis_value(global.gamepad_id,gp_axisl
 left	= keyboard_check(ord("A")) or gamepad_axis_value(global.gamepad_id,gp_axislh) < -0.25;
 right	= keyboard_check(ord("D")) or gamepad_axis_value(global.gamepad_id,gp_axislh) > 0.25;
 
+// José tem érnia de disco :C
+
 //aplicando a velocidade vertical
 velv = (down - up) * vel;
 
