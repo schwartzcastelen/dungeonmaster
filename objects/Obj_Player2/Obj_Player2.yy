@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_Player1",
+  "name": "Obj_Player2",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_Player1",
-    "path": "sprites/Spr_Player1/Spr_Player1.yy",
+    "name": "Spr_Player2",
+    "path": "sprites/Spr_Player2/Spr_Player2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

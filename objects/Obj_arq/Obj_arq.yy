@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_Player1",
+  "name": "Obj_arq",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -10,13 +10,10 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "players",
-    "path": "folders/Objects/ADM/players.yy",
+    "name": "inimigos",
+    "path": "folders/Objects/inimigos.yy",
   },
-  "parentObjectId": {
-    "name": "Obj_Pai",
-    "path": "objects/Obj_Pai/Obj_Pai.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -33,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_Player1",
-    "path": "sprites/Spr_Player1/Spr_Player1.yy",
+    "name": "Spr_arq",
+    "path": "sprites/Spr_arq/Spr_arq.yy",
   },
   "spriteMaskId": null,
   "visible": true,

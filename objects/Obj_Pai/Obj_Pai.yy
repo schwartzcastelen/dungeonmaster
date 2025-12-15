@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_Col",
+  "name": "Obj_Pai",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "ADM",
-    "path": "folders/Objects/ADM.yy",
+    "name": "players",
+    "path": "folders/Objects/ADM/players.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Spr_Col",
-    "path": "sprites/Spr_Col/Spr_Col.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
